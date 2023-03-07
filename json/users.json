@@ -1,0 +1,15 @@
+[{
+    "name":"david",
+    "age":41,
+    "designation":"software developer"
+},
+{
+    "name":"maria",
+    "age":43,
+    "designation":"teacher"
+},
+{
+    "name":"samuel",
+    "age":30,
+    "designation":"teacher"
+}]
